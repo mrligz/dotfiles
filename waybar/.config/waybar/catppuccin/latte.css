@@ -1,0 +1,28 @@
+/* Catppuccin latte palette */
+
+@define-color rosewater-l #dc8a78;
+@define-color flamingo-l #dd7878;
+@define-color pink-l #ea76cb;
+@define-color mauve-l #8839ef;
+@define-color red-l #d20f39;
+@define-color maroon-l #e64553;
+@define-color peach-l #fe640b;
+@define-color yellow-l #df8e1d;
+@define-color green-l #40a02b;
+@define-color teal-l #179299;
+@define-color sky-l #04a5e5;
+@define-color sapphire-l #209fb5;
+@define-color blue-l #1e66f5;
+@define-color lavender-l #7287fd;
+@define-color text-l #4c4f69;
+@define-color subtext1-l #5c5f77;
+@define-color subtext0-l #6c6f85;
+@define-color overlay2-l #7c7f93;
+@define-color overlay1-l #8c8fa1;
+@define-color overlay0-l #9ca0b0;
+@define-color surface2-l #acb0be;
+@define-color surface1-l #bcc0cc;
+@define-color surface0-l rgba(22, 25, 37, 0.9);
+@define-color base-l #eff1f5;
+@define-color mantle-l #e6e9ef;
+@define-color crust-l #dce0e8;

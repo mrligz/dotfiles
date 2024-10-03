@@ -1,0 +1,2 @@
+0||bottom|( custom/launcher ) ( hyprland/workspaces ) ( cpu memory temperature disk )| ( network ) ( hyprland/window ) ( custom/updates )|( custom/cava custom/spotify pulseaudio tray ) ( clock ) ( custom/power )
+1||top|( custom/launcher ) ( hyprland/workspaces ) ( cpu memory temperature disk )| ( network ) ( hyprland/window ) ( custom/updates )|( custom/cava custom/spotify pulseaudio tray ) ( clock ) ( custom/power )
